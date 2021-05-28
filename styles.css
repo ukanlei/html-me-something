@@ -15,7 +15,16 @@ h2 {
   margin-top: 40px;
 }
 
+h2.about {
+  margin-top: 25px;
+}
+
+p.about {
+  margin: 25px;
+}
+
 #aboutBox {
+  margin-top: 50px;
   border: 1px solid black;
 }
 
@@ -25,7 +34,7 @@ h2 {
 
 #copyright {
   position: relative;
-  margin-top: 50px;
+  margin-top: 40px;
   bottom: 0;
 }
 
