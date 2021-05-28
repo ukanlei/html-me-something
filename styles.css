@@ -1,8 +1,34 @@
 body {
   text-align: center;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: auto;
+  width: 50%;
+  min-width: 400px;
 }
 
 ul {
   list-style: none;
+  padding: 0;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+#simleFace {
+  width: 50%;
+}
+
+#copyright {
+  position: relative;
+  margin-top: 50px;
+  bottom: 0;
+}
+
+#authorHeader {
+  margin-top: 0;
+}
+
+#logoHeader {
+  width: 400px;
 }
