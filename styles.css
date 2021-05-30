@@ -23,6 +23,10 @@ p.about {
   margin: 25px;
 }
 
+.instruction {
+  padding-bottom: 10px;
+}
+
 #aboutBox {
   margin-top: 50px;
   border: 1px solid black;
